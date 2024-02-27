@@ -1,0 +1,1 @@
+ /Users/pisitkoolplukpol/source/Roll-Dice/.dart_tool/flutter_build/f77226651f2c88f98595ab3a03b67779/native_assets.yaml: 
